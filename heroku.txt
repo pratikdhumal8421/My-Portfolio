@@ -3,3 +3,8 @@ https://dashboard.heroku.com/apps/sample97/deploy/heroku-git
 
 1) Enter a project 
 2)npm install -g heroku   ( check version -> heroku --version)
+3)heroku login
+4)heroku git:clone -a sample97    (sample 97 is autmatically yete  https://dashboard.heroku.com/apps/sample97/deploy/heroku-git)
+5)git add .
+6)git commit -am "make it better"
+7)git push heroku master
