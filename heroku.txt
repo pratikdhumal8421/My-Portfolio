@@ -1,1 +1,5 @@
 https://dashboard.heroku.com/apps/sample97/deploy/heroku-git
+
+
+1) Enter a project 
+2)npm install -g heroku   ( check version -> heroku --version)
