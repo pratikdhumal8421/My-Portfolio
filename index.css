@@ -39,7 +39,8 @@ body {
   background: var(--color-bg);
   color: var(--color-white);
   line-height: 1.7;
-  background-image: url(../src/assets/backgroundTxt.jpg);
+  background-image: url(../src/Assets/backgroundTxt.jpg);
+  {.. You can select you path also ..}
 }
 
 /* General Styles */
