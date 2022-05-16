@@ -1,16 +1,16 @@
 import React from "react";
 import "./App.css";
 
-import Header from "./components/header/Header";
-import Nav from "./components/nav/Nav";
-import About from "./components/about/About";
-import Experience from "./components/experience/Experience";
+import Header from "./Header/Header";
+import Nav from "./Nav/Nav";
+import About from "./About/About";
+import Experience from "./Experience/Experience";
 
-import Testimonials from "./components/testimonials/Testimonials";
-import Contact from "./components/contacts/Contact";
-import Footer from "./components/footer/Footer";
-import Services from "./components/services/Services";
-import Portfolio from "./components/portfolio/Portfolio";
+import Testimonials from "./Testimonials/Testimonials";
+import Contact from "./Contacts/Contact";
+import Footer from "./Footer/Footer";
+import Services from "./Services/Services";
+import Portfolio from "./Portfolio/Portfolio";
 
 const App = () => {
   return (
